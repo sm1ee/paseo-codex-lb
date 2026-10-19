@@ -1,0 +1,9 @@
+{
+  "id": "codex-lb",
+  "name": "Codex LB",
+  "description": "Codex LB quota, account health, and usage in Paseo.",
+  "media": ["assets/preview.png"],
+  "requirements": {
+    "paseo": ">=0.11.4"
+  }
+}
